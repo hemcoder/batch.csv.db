@@ -1,0 +1,8 @@
+com\genpact\batch\ProductItemProcessor$1.class
+com\genpact\batch\model\Product.class
+com\genpact\batch\ProductItemWriter.class
+com\genpact\batch\ProductFieldSetMapper.class
+com\genpact\batch\App.class
+com\genpact\batch\ProductItemProcessor.class
+com\genpact\batch\ProductItemWriter$1.class
+com\genpact\batch\ArchiveProductImportFileTasklet.class
